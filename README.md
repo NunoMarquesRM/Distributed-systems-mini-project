@@ -21,6 +21,9 @@ lista caso ele conste da lista.
 
 Consultar livros é: - o cliente obter do servidor a lista dos livros existentes.
 
+
+
+
   Pretende-se uma aplicação com um servidor multi-threaded em que o cliente e o servidor
 comunicam por Sockets TCP. Para cada ligação do cliente, este pode escolher várias
 opções até decidir terminar.
